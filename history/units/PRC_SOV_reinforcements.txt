@@ -1,0 +1,82 @@
+﻿division_template = {
+	name = "Erjinzhi Juntuán"			# Binary Infantry Corps
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+   		infantry = { x = 0 y = 3 }
+		anti_tank_brigade = { x = 0 y = 4 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+  		infantry = { x = 1 y = 3 }
+		anti_air_brigade = { x = 1 y = 4 }
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+		artillery_brigade = { x = 3 y = 0 }
+		
+	}
+	support = {
+		engineer = { x = 0 y = 0 }
+		field_hospital = { x = 0 y = 1 }
+		recon = { x = 0 y = 2 }
+		signal_company = { x = 0 y = 3 }
+		anti_tank = { x = 0 y = 4 }
+	}
+}
+
+units = {
+
+	division = {
+		name = "1 Su jun Zhiyuanjun"
+		location = 10629
+		division_template = "Erjinzhi Juntuán"
+	}
+	division = {
+		name = "2 Su jun Zhiyuanjun"
+		location = 10629
+		division_template = "Erjinzhi Juntuán"
+	}
+	division = {
+		name = "3 Su jun Zhiyuanjun"
+		location = 10629
+		division_template = "Erjinzhi Juntuán"
+	}
+	division = {
+		name = "4 Su jun Zhiyuanjun"
+		location = 12609
+		division_template = "Erjinzhi Juntuán"
+	}
+	division = {
+		name = "5 Su jun Zhiyuanjun"
+		location = 12609
+		division_template = "Erjinzhi Juntuán"
+	}
+	division = {
+		name = "6 Su jun Zhiyuanjun"
+		location = 12609
+		division_template = "Erjinzhi Juntuán"
+	}
+	division = {
+		name = "7 Su jun Zhiyuanjun"
+		location = 12331
+		division_template = "Erjinzhi Juntuán"
+	}
+	division = {
+		name = "8 Su jun Zhiyuanjun"
+		location = 12331
+		division_template = "Erjinzhi Juntuán"
+	}
+	division = {
+		name = "9 Su jun Zhiyuanjun"
+		location = 12331
+		division_template = "Erjinzhi Juntuán"
+	}
+	division = {
+		name = "10 Su jun Zhiyuanjun"
+		location = 12331
+		division_template = "Erjinzhi Juntuán"
+	}
+}

@@ -1,0 +1,27 @@
+More Historical Division Structure Mod
+
+special thanks to:
+
+Military History Visualized
+
+For making a detailed video on what Hearts of Iron 4 divisions would look like if they were historical.
+
+https://www.youtube.com/watch?v=eyQmhrVKsc0
+
+This mod changes the starting division structures of the number of nations in the 1939 scenario. It implements all of the infantry division structures listed in the above 
+video. I have also taken a stab at creating more historically accurate armour, mountain, motorized and marine divisions (try not to laugh to much :)). 
+There are also templates for later war divisions included which are intended to serve as a guide for players wanting to evolve their divisions in historically accurate ways. 
+As the AI at present does not update it's divisions maybe it will also build these as well.  
+The 1936 scenario remains unaltered. Furthermore, a number a nations were given additional tech to better represent their technology levels in 1939 and to allow for the
+above division structures to exist 
+
+Game mechanic Change:
+
+Due to the fact that many armoured divisions included towed guns in the T.O.Es I have increased the based speed of towed guns to 10 (2 less than motorized units)
+
+Installation Instructions:
+
+Inside the SteamApps folder (usually in your program files directory)
+Drop the history folder onto history folder located in SteamApps/common/Hearts of Iron IV folder
+
+Open up the folder named common and drop the folder named units onto the folder named units located in SteamApps/common/Hearts of Iron IV/common folder
